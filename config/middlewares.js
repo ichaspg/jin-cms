@@ -14,6 +14,7 @@ module.exports = [
         "http://172.19.0.1:5173",
         "https://jin-compro-fe.vercel.app",
         "http://192.168.100.12:5173",
+        "http://192.168.100.12:5173",
         "http://192.168.100.12",
       ],
     },
